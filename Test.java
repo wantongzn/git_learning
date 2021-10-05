@@ -7,7 +7,8 @@ package t;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-	System.out.println("Keep going");
+	System.out.println("Keep Going!");
+	System.out.println("Keep Young!");
     }
 
 }
